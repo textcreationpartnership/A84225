@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The examination of George Leddoze of Dorchester merchant, taken before Master Henry Maber mayor, and Mr Richard Burce, His Majesties iustices of the peace, the 27 of August. 1642. Wherein is discovered the inveterate malice of the Lords and Cavaleers at Sherborne, against the Parliament and all good men, falsly scandalizing them under the nickname of Cropeard-Round-Heads. Sent from a member of the House of Commons in that county, and read in the House, and ordered to be printed. Hen. Elsynge Cl. Par. D. Com. Whereunto is added a letter from Coker, near Sherborne in Sommersetshire, of the war-like preparations there intended.</title>
+            <author>Leddoze, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84225</idno>
+            <idno type="STC">Wing E3718</idno>
+            <idno type="STC">Thomason E115_6</idno>
+            <idno type="STC">ESTC R11067</idno>
+            <idno type="EEBO-CITATION">99858930</idno>
+            <idno type="PROQUEST">99858930</idno>
+            <idno type="VID">110990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The examination of George Leddoze of Dorchester merchant, taken before Master Henry Maber mayor, and Mr Richard Burce, His Majesties iustices of the peace, the 27 of August. 1642. Wherein is discovered the inveterate malice of the Lords and Cavaleers at Sherborne, against the Parliament and all good men, falsly scandalizing them under the nickname of Cropeard-Round-Heads. Sent from a member of the House of Commons in that county, and read in the House, and ordered to be printed. Hen. Elsynge Cl. Par. D. Com. Whereunto is added a letter from Coker, near Sherborne in Sommersetshire, of the war-like preparations there intended.</title>
+                  <author>Leddoze, George.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaiklock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 1. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Sherborne (Dorset) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110990:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>THE EXAMINATION OF <hi>GEORGE LEDDOZE</hi> OF DORCHESTER MERCHANT, Taken before Maſter <hi>Henry Maber</hi> Mayor, and Mr <hi>Richard Burce,</hi> His Ma<g ref="char:EOLhyphen"/>jeſties Iuſtices of the Peace, the 27 of <hi>Auguſt.</hi> 1642.</p>
+            <p>Wherein is diſcovered the inveterate malice of the Lords and Cavaleers at <hi>Sherborne,</hi> againſt the <hi>Parliament</hi> and all good men, falſly ſcandali<g ref="char:EOLhyphen"/>zing them under the nickname of Crop-eard-Round-Heads.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Sent from a Member of the Houſe of Commons in that County, and read in the Houſe, and ordered to be Printed.</p>
+                        <closer>
+                           <signed>Hen. Elſynge Cl. Par. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Whereunto is added a Letter from <hi>Coker,</hi> near <hi>Sherborne</hi> in <hi>So<g ref="char:EOLhyphen"/>merſetſhire,</hi> of the War-like preparations there intended.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Laurence Blaiklock. Septemb.</hi> 1. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:110990:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="1" facs="tcp:110990:2"/>
+            <!-- PDF PAGE 79 -->
+            <head>THE EXAMINATION OF GEORGE LEDDOZE OF <hi>DORCHESTER,</hi> MERCHANT, Taken before Maſter <hi>Henry Maber</hi> Mayor, and <hi>Richard Burce,</hi> His Majeſties Ju<g ref="char:EOLhyphen"/>ſtices of the Peace.</head>
+            <opener>
+               <dateline>
+                  <date>Auguſt 27. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ho upon his Oath ſaith that upon Thurſday laſt, This Examinant being at the Town of <hi>Sherborn,</hi> was taken for a ſpie, and was examined at the Lodge there by the Lord <hi>Paulet,</hi> Sir <hi>Ralph Hopton,</hi> Sir <hi>Iohn Stowell,</hi> and Sir <hi>Henry Barkley;</hi>
+               <pb n="2" facs="tcp:110990:3"/>
+               <!-- PDF PAGE 80 -->And in his examination, being demanded, of which ſide he would be, whether for King or Parliament; This Examinant anſwered, that he was for both. The Lord <hi>Paulet</hi> anſwered, that all the Parliament that were for the <hi>Militia,</hi> were proclaimed Traytors and were crop-eard Rogues, and that <hi>Earle,</hi> meaning Sir <hi>Walter Earle</hi> of whom they had had conference before, was the wickedeſt Rogue of them all and one of the Divels limbs, and ſo they were all: And the ſaid Sir <hi>Ralph Hopton</hi> ſpake the ſame, and the ſaid other Gentlemen ſpake to the ſame effect: and that they were come thither to keep a Parliament them<g ref="char:EOLhyphen"/>ſelves, and that the King would be there ſhortly to aſſiſt them with a great Army, and if it had not been for <hi>Earle</hi> and ſuch Rogues, theſe tumults and ſturres had not been; and the ſaid Sir <hi>Ralph Hopton</hi> further ſaith, that we may ſee the hand of God to be with them in protecting them, being but a ſmall number, and they great in number that were againſt them, and that they being ſhot twice at with many ſhots and bullets about their eares, yet were not touched by one of them, and that their company ſhot but once and killed two men, and maimed or hurt fifteen more, &amp; that thoſe that took up Armes for the Parliament; were bloud ſucking Rogues; and theſe their words they confirmed with many oaths; Further, Sir <hi>Ralph Hopton</hi> demanding what ſtrength there was in <hi>Dorcheſter,</hi> this Examinant anſwered, there were
+<pb n="3" facs="tcp:110990:3"/>
+               <!-- PDF PAGE 80 -->ſix great Gunnes, the ſaid <hi>Ralph</hi> replyed, that thoſe Gunnes did belong unto them, and they would have them, and would cut off all the Round-Heads in the Land.</p>
+            <closer>
+               <signed>George Leddoze.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:110990:4"/>
+            <!-- PDF PAGE 81 -->
+            <head>A LETTER out of SOMERSET-SHIRE, Concerning the VVarlike Preparations AT SHERBVRNE.</head>
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thought fit to let you underſtand in what poſture <hi>Sherburne</hi> ſtands in: The Lord Marqueſſe of <hi>Hartford</hi> and his two ſonnes, and his brother, the Lord <hi>Seymor,</hi> the Lord <hi>Paulet,</hi> and his two eldeſt ſonnes, and of Somerſet Knights <hi>Hopton, Stowell,</hi> and <hi>Rodney;</hi> and of the Gentry, <hi>Iohn Coven<g ref="char:EOLhyphen"/>try,</hi> and the reſt, who accompanied him at <hi>Wells,</hi> yet keep with him, and the two <hi>Lunsfords,</hi> and are for<g ref="char:EOLhyphen"/>tifying
+<pb n="5" facs="tcp:110990:4"/>
+               <!-- PDF PAGE 81 -->the Caſtle at <hi>Sherburne,</hi> their ſtrength not exceeding ſix hundred Horſe and Foot; againſt whom are marching the Earle of <hi>Bedford</hi> with his ſix hundred Horſe, and about eighteen great pieces of Ordnance from <hi>Briſtoll,</hi> beſides twenty thouſand Horſe and Foot at leaſt out of Somerſetſhire, and great Companies out of Dorſetſhire, who promiſe to bee at <hi>Sherburne</hi> at a dayes warning; which cauſeth the Lords and Cavaliers to droope, and to deſire a free paſſage; and it is thought they will endeavour it this day. Yeſterday the Marqueſſe ſent a Letter to my neighbour Maſter <hi>Harby,</hi> one of the Deputy Lievtenants for the Militia, de<g ref="char:EOLhyphen"/>ſiring his aſſiſtance and advice; he deſired to be conducted to <hi>Poole,</hi> and from thence by ſea to his owne houſe, as is conceived. What will bee the iſſue wee know not yet: Our Country men are angry they took him not at <hi>Wells,</hi> who then viſited the Biſhops pallace, where they did not hurt, but to his Wine, Pictures, Organs, &amp;c. I purpoſe, God willing, to ſtay here, and expect the Iſſue.</p>
+            <closer>
+               <dateline>From Coker neere Sherburne in Somerſetſhire <date>Aug. 26. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
